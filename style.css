@@ -72,14 +72,12 @@ footer {
   main {
     width: 100%;
     display: block;
-    padding-left: 2%;
-    padding-right: 2%;
   }
 
   .blog {
-    width: 100%;
-    margin-right: 0;
-    margin-bottom: 20px;
+    width: 90%;
+    margin: 0, auto;
+    margin: 20px;
   }
 
   .blog:last-child {
